@@ -6,3 +6,6 @@
 6. git reset [files] - убрать файлы из stage
 7. git diff - показывает изменения в файлах
 8. git reset --hard - отменяет все изменения
+9. git branch - просмотреть все ветки
+10. git branch [branch_name] - создать новую ветку
+11. git checkout [branch_name] - переключиться на другую ветку
