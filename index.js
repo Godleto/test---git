@@ -1,1 +1,10 @@
 console.log('Hello, World!');
+
+
+const userAge = 36;
+
+if (userAge >= 18) {
+    console.log('Вы совершеннолетний');
+} else {
+    console.log('Вы НЕ совершеннолетний');
+}
