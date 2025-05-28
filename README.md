@@ -12,3 +12,4 @@
 12. git pull [rep_link] [branch_name] - получить изменения из репозитория
 13. git branch -d [branch_name] - удалить ветку
 14. git merge [branch_name] - перенсти изменения из ветки [branch_name] в текущую ветку
+15. git checkout -b [branch_name] - создать новую ветку и сразу перейти в неё
